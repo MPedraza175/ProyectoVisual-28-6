@@ -25,11 +25,14 @@
   display: flex;
   width: auto;
   height: 60px;
-  justify-content: end;
+  justify-content:space-between;
   align-items: center;
 
   
   
+}
+.logo{
+ padding: 20px;
 }
 .navbar ul{
   display: flex;
